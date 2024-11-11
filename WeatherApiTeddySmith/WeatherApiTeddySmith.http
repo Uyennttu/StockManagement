@@ -1,0 +1,6 @@
+@WeatherApiTeddySmith_HostAddress = http://localhost:5137
+
+GET {{WeatherApiTeddySmith_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
